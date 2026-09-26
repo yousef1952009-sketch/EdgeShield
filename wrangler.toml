@@ -16,7 +16,7 @@ RATE_LIMIT_MAX_REQUESTS = "100"
 
 [[kv_namespaces]]
 binding = "WAF_RULES"
-id = "YOUR_KV_NAMESPACE_ID"
+id = "adf8c544a6d74d7d8e1a442fbedfca69"
 preview_id = "YOUR_KV_PREVIEW_ID"
 
 [[durable_objects.bindings]]
